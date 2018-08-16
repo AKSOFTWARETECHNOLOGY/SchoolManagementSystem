@@ -24,7 +24,7 @@
 <body class="login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="index.php"><img src="http://www.myskoo.in/images/logo.png" width="100px"></a>
+        <a href="index.php"><img src="image/logo.png" width="100px"></a>
     </div><!-- /.login-logo -->
     <div class="login-box-body">
         <p class="login-box-msg">Sign in to start your session</p>
